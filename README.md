@@ -6,7 +6,8 @@ presenting a simplified interface for users to specify cron entries.
 Check out the [jquery-crontab] website for more information.
 
 This plugin was developed to fulfil the requirements that arose
-from the [BBotUI Project].
+from the [BBotUI Project] by [shawnChin]. We added some specific functionality
+and forked his project.
 As such, while we do try to make the implementation as generic
 as possible, we dare not claim this plugin to be as flexible
 as one would expect a sensible jQuery plugin to be.
@@ -43,6 +44,7 @@ Copyright (c) 2013, Low Kian Seong.
 This project is licensed under the [MIT license].
 
  [jQuery]: http://jquery.com "jQuery"
+ [shawnChin]: http://shawnchin.github.com/
  [jquery-crontab]: http://shawnchin.github.com/jquery-crontab "jquery-crontab"
  [BBotUI Project]: https://github.com/shawnchin/bbotui "BBotUI project"
  [jquery-gentleSelect]: http://shawnchin.github.com/jquery-gentleSelect "jquery-gentleSelect"
