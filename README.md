@@ -35,7 +35,7 @@ on DOM ready:
 
 For more options, see the [jquery-crontab] website. We would like to record
 thanks to the creator of the project Shawn Chin, which this project was originally
-forked from.
+forked from. How this project differs from the original jquery-cron is that we support cron definition down to the minute
 
 
 ## Others
