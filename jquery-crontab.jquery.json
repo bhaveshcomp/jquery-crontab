@@ -24,7 +24,7 @@
             "url": "https://github.com/lowks/jquery-crontab/blob/master/LICENSE"
         }
     ],
-    "bugs": "",https://github.com/lowks/jquery-crontab/issues
+    "bugs": "https://github.com/lowks/jquery-crontab/issues",
     "homepage": "https://github.com/jquery/jquery-crontab",
     "docs": "https://github.com/jquery/jquery-crontab",
     "download": "http://code.jquery.com/#jquery-crontab",
