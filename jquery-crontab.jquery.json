@@ -6,7 +6,7 @@
         "crontab",
         "system"
     ],
-    "version": "0.13.5",
+    "version": "0.13.6",
     "author": {
         "name": "Low Kian Seong",
         "url": "https://github.com/lowks/jquery-crontab/blob/master/AUTHORS"
@@ -27,7 +27,7 @@
     "bugs": "https://github.com/lowks/jquery-crontab/issues",
     "homepage": "https://github.com/lowks/jquery-crontab/",
     "docs": "https://github.com/lowks/jquery-crontab/blob/master/README.md",
-    "download": "https://github.com/lowks/jquery-crontab/archive/0.13.4.zip",
+    "download": "https://github.com/lowks/jquery-crontab/archive/0.13.6.zip",
     "dependencies": {
         "jquery": ">= 1.10.3"
     }
