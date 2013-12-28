@@ -27,7 +27,7 @@
     "bugs": "https://github.com/lowks/jquery-crontab/issues",
     "homepage": "https://github.com/lowks/jquery-crontab/",
     "docs": "https://github.com/lowks/jquery-crontab/blob/master/README.md",
-    "download": "http://code.jquery.com/#jquery-crontab",
+    "download": "https://github.com/lowks/jquery-crontab/archive/0.13.4.zip",
     "dependencies": {
         "jquery": ">= 1.10.3"
     }
