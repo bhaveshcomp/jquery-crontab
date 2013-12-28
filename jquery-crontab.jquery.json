@@ -6,9 +6,9 @@
         "crontab",
         "system"
     ],
-    "version": "0.13.4",
+    "version": "0.13.5",
     "author": {
-        "name": "jQuery crontab",
+        "name": "Low Kian Seong",
         "url": "https://github.com/lowks/jquery-crontab/blob/master/AUTHORS"
     },
     "maintainers": [
