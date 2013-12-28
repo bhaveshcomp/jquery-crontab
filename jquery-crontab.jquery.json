@@ -6,7 +6,7 @@
         "crontab",
         "system"
     ],
-    "version": "0.13.2",
+    "version": "0.13.3",
     "author": {
         "name": "jQuery crontab",
         "url": "https://github.com/lowks/jquery-crontab/blob/master/AUTHORS"
