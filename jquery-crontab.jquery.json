@@ -6,7 +6,7 @@
         "crontab",
         "system"
     ],
-    "version": "0.13.3",
+    "version": "0.13.4",
     "author": {
         "name": "jQuery crontab",
         "url": "https://github.com/lowks/jquery-crontab/blob/master/AUTHORS"
@@ -25,8 +25,8 @@
         }
     ],
     "bugs": "https://github.com/lowks/jquery-crontab/issues",
-    "homepage": "https://github.com/jquery/jquery-crontab",
-    "docs": "https://github.com/jquery/jquery-crontab",
+    "homepage": "https://github.com/lowks/jquery-crontab/",
+    "docs": "https://github.com/lowks/jquery-crontab/blob/master/README.md",
     "download": "http://code.jquery.com/#jquery-crontab",
     "dependencies": {
         "jquery": ">= 1.10.3"
